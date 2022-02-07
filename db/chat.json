@@ -1,0 +1,24 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"rezzinate"},
+{"type":"table","name":"chat","database":"rezzinate","data":
+[
+
+]
+}
+,{"type":"table","name":"chatroom","database":"rezzinate","data":
+[
+
+]
+}
+,{"type":"table","name":"chat_member","database":"rezzinate","data":
+[
+
+]
+}
+,{"type":"table","name":"user","database":"rezzinate","data":
+[
+{"userid":"3","username":"ano","password":"f62d87454f673b4f724b204df38fbc4e","uname":"D~Ano RezX","photo":"upload\/ano_1644155870.jpg","access":"1"}
+]
+}
+]
